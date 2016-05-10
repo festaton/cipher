@@ -1,0 +1,6 @@
+- capable of ciphering text, lower/upper/symbols
+- able to enter key and cipher accordingly
+- able to decipher
+- if NaN entered for key a little red message pops up
+- looks good visually
+- Vigenere cipher too w/ keyword
