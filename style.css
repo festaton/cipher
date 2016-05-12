@@ -1,10 +1,15 @@
 html, body {
   font-family: 'Montserrat', sans-serif;
+  }
 
+h1 {
+  font-size: 4em;
+  color: #c1ae87;
+  font-weight: 900;
 }
 
 .container {
-  border: 15px solid black;
+  border: 45px solid #c1ae87;
   padding: 20px;
   text-align: center;
   border-radius: 10px;
@@ -19,4 +24,8 @@ textarea, input, button {
 button {
   border-radius: 5px;
   outline-color: red;
+}
+
+textarea {
+  width: 70%;
 }
